@@ -9,7 +9,6 @@ setup(
     install_requires=[
         "pandas",
         "numpy",
-        "tkinter",
         "dateparser",
         "rapidfuzz",
     ],
